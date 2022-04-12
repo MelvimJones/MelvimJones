@@ -1,6 +1,7 @@
 ### Olá Sou Melvim Jones 👋
+👩‍🎓 Formado em Engenharia da Computação
 🏍 Buscando sempre novos desafios
-<p>✔Atualmente estudando PHP, HTML e Javascript
+<p>✔Atualmente estudando Java, C#, PHP, HTML e Javascript
   </p>
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
