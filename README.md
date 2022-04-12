@@ -9,7 +9,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
-
 ## 
 <div> 
    <a href="https://www.instagram.com/melvim_jones/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -25,7 +24,6 @@
   <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=MelvimJones&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="235px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvimJones&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
-  ##
+ 
   
   
