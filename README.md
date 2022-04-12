@@ -1,6 +1,4 @@
-### Olá Sou Melvim Jones 👋
-<p>   🎓Formado em Engenharia da Computação</p>
-<p>   🏍Buscando sempre novos desafios</p>
+### Olá Sou Melvim Jones 👋 🎓Formado em Engenharia da Computação e Buscando sempre novos desafios
 <p>    ✔Atualmente estudando Java, C#, PHP, HTML e Javascript
   </p>
 <div style="display: inline_block"><br>
