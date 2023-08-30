@@ -24,8 +24,7 @@
   <a href = "mailto:melvimjones32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
- ![Snake animation](https://github.com/MelvimJones/MelvimJones/blob/output/github-contribution-grid-snake.svg)
+[![Generate Snake](https://github.com/MelvimJones/MelvimJones/actions/workflows/cobrinha.yml/badge.svg)](https://github.com/MelvimJones/MelvimJones/actions/workflows/cobrinha.yml)
   </div>
 
 <div align="center">
