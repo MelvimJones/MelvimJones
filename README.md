@@ -23,8 +23,8 @@
   <a href="https://api.whatsapp.com/send?phone=55067992665457" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:melvimjones32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
- 
-[![Generate Snake](https://github.com/MelvimJones/MelvimJones/actions/workflows/cobrinha.yml/badge.svg)](https://github.com/MelvimJones/MelvimJones/actions/workflows/cobrinha.yml)
+
+ ![snake animation](https://github.com/MelvimJones/MelvimJones/blob/output/github-contribution-grid-snake2.svg)
   </div>
 
 <div align="center">
