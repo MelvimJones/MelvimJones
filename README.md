@@ -25,6 +25,7 @@
   
 
  ![snake animation](https://github.com/MelvimJones/MelvimJones/blob/output/github-contribution-grid-snake2.svg)
+ [![Generate snake game](https://github.com/MelvimJones/MelvimJones/actions/workflows/snake.yml/badge.svg)](https://github.com/MelvimJones/MelvimJones/actions/workflows/snake.yml)
   </div>
 
 <div align="center">
