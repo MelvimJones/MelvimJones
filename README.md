@@ -1,6 +1,9 @@
 ### Olá Sou Melvim Jones 👋
 <p>    ✔Atualmente estudando Java, C#, PHP, HTML e Javascript
   </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF770&width=435&lines=Full+Stack+Web+Developer...)](https://git.io/typing-svg)
+  
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
@@ -23,10 +26,6 @@
   <a href="https://api.whatsapp.com/send?phone=55067992665457" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:melvimjones32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-
- ![snake animation](https://github.com/MelvimJones/MelvimJones/blob/output/github-contribution-grid-snake2.svg)
- [![Generate snake game](https://github.com/MelvimJones/MelvimJones/actions/workflows/snake.yml/badge.svg)](https://github.com/MelvimJones/MelvimJones/actions/workflows/snake.yml)
-  </div>
 
 <div align="center">
 <a href="https://github.com/MelvimJones">
