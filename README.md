@@ -2,7 +2,7 @@
 <p>    ✔Atualmente estudando Java, C#, PHP, HTML e Javascript
   </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF770&width=435&lines=Full+Stack+Web+Developer...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF770&width=435&lines=Full+Stack+Developer...)](https://git.io/typing-svg)
   
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
