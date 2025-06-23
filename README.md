@@ -1,6 +1,7 @@
 ### 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF770&width=435&lines=Ol%C3%A1%2C+sou+Melvim+Jones...+%F0%9F%91%8B)](https://git.io/typing-svg)
-<p>✔ Engenheiro da Computação e Desenvolvedor Full Stack com sólida atuação em projetos web e mobile. Utilizo tecnologias como Java, C#, PHP, HTML, JavaScript e frameworks modernos para criar experiências digitais de alto desempenho e usabilidade.</p>
+<p>✔ Engenheiro da Computação e Desenvolvedor Full Stack com sólida atuação em projetos web e mobile. </p>
+ <p> Utilizo tecnologias como Java, C#, PHP, HTML, JavaScript e frameworks modernos para criar experiências digitais de alto desempenho e usabilidade.</p>
 
 
   
