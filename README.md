@@ -1,7 +1,8 @@
-### Olá Sou Melvim Jones 👋
+### 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF770&width=435&lines=Ol%C3%A1%2C+sou+Melvim+Jones...+%F0%9F%91%8B)](https://git.io/typing-svg)
 <p>✔ Engenheiro da Computação e Desenvolvedor Full Stack com sólida atuação em projetos web e mobile. Utilizo tecnologias como Java, C#, PHP, HTML, JavaScript e frameworks modernos para criar experiências digitais de alto desempenho e usabilidade.</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF770&width=435&lines=Full+Stack+Developer...)](https://git.io/typing-svg)
+
   
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
