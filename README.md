@@ -1,6 +1,5 @@
 ### Olá Sou Melvim Jones 👋
-<p>    ✔Atualmente estudando Java, C#, PHP, HTML e Javascript
-  </p>
+<p>✔ Engenheiro da Computação e Desenvolvedor Full Stack com sólida atuação em projetos web e mobile. Utilizo tecnologias como Java, C#, PHP, HTML, JavaScript e frameworks modernos para criar experiências digitais de alto desempenho e usabilidade.</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EF770&width=435&lines=Full+Stack+Developer...)](https://git.io/typing-svg)
   
