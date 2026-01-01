@@ -28,11 +28,11 @@
   <a href = "mailto:melvimjones32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://github.com/MelvimJones">
   <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api?username=MelvimJones&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvimJones&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+</div> -->
  
   <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/melvimjones/melvimjones/output/github-contribution-grid-snake-dark.svg">
